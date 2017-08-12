@@ -1,0 +1,26 @@
+{
+  "name": "computerboy.js",
+  "version": "1.0.0",
+  "description": "computerboy site for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cthpw103/computerboy-node.git"
+  },
+  "keywords": [
+    "computerboy",
+    "poppy",
+    "whatthefuckdoitypehere",
+    "poppycomputerboy",
+    "computerboy.js"
+  ],
+  "author": "cth103 <cthdev@email.com> (http://cth103.net)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cthpw103/computerboy-node/issues"
+  },
+  "homepage": "https://github.com/cthpw103/computerboy-node#readme"
+}
